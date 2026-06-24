@@ -2,14 +2,5 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
   "framework": "nextjs",
-  "regions": ["iad1"],
-  "env": {
-    "TAVUS_API_KEY": "@tavus_api_key",
-    "TAVUS_REPLICA_ID": "@tavus_replica_id",
-    "TAVUS_PERSONA_ID": "@tavus_persona_id",
-    "ANTHROPIC_API_KEY": "@anthropic_api_key",
-    "ASTROLOGY_API_USER_ID": "@astrology_api_user_id",
-    "ASTROLOGY_API_KEY": "@astrology_api_key",
-    "WEBHOOK_SECRET": "@webhook_secret"
-  }
+  "regions": ["iad1"]
 }
